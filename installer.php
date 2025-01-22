@@ -55,11 +55,11 @@ namespace {
     LogHandler::init_error_handler();
     class DUPX_Bootstrap
     {
-        const ARCHIVE_FILENAME   = '20250108_museo_3745e1ece1a159829975_20250108130623_archive.daf';
-        const ARCHIVE_SIZE       = '79024305';
+        const ARCHIVE_FILENAME   = '20250108_museo_6fe368a1a05cf8578970_20250122132454_archive.daf';
+        const ARCHIVE_SIZE       = '101245310';
         const INSTALLER_DIR_NAME = 'dup-installer';
-        const PACKAGE_HASH       = '3745e1e-08130623';
-        const SECONDARY_PACKAGE_HASH = '86ab965-08130623';
+        const PACKAGE_HASH       = '6fe368a-22132454';
+        const SECONDARY_PACKAGE_HASH = '14f0fc3-22132454';
         const VERSION            = '1.5.11.2';
         const MINIMUM_PHP_VERSION = '5.6.20';
         const ZIP_MODE_AUTO    = 0;
